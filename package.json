@@ -1,0 +1,16 @@
+{
+    "name": "meetup-api",
+    "author": "Evan Pouchak",
+    "version": "1.0.0",
+    "dependencies": {
+        "express": "^4.16.4",
+        "mocha": "^5.2.0",
+        "chai": "^4.2.0",
+        "chai-http": "^4.2.0",
+        "superagent": "^4.0.0"
+    },
+    "scripts": {
+        "start": "node server.js",
+        "test": "mocha ./test/ --exit"
+    }
+}

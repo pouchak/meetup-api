@@ -1,0 +1,354 @@
+{
+    "data":[
+        {
+        "score": 1514,
+        "id": 1365395,
+        "name": "UXPALA",
+        "status": "grace",
+        "link": "https://www.meetup.com/UXPALA/",
+        "urlname": "UXPALA",
+        "description": "<p><b>UXPALA is a non-profit 501(c)6 Business League. Our focus at UXPALA is Service and Education to the UX and Tech community.</b></p>\n<p>The Los Angeles chapter of <a href=\"http://uxpa.org/\"><b>The User Experience Professionals Association (UXPA) International</b></a><b> is the 3rd largest world-wide.</b>&nbsp;</p>\n<p>Our chapter and membership are here to support user experience professional's (advanced, entering, transitioning, students and all related) in advancing their knowledge and use of usability, research, accessibility, and best practices. To accomplish this, our chapter focuses on service, education, and volunteering through events, workshops, and mentoring. <br> <br>Our members encompass a wide variety of disciplines, including product and service strategy, design, research, content, and development. We are colleagues in pursuit of a common goal: better products and services, better working, and better living through usability, accessibility, research and collaboration. <br> <br>More information about UXPA and our local LA chapter can be found on the \"<a href=\"https://www.meetup.com/UXPALA/about/\"><b>Pages</b></a>\" tab. <br> <br>UXPA International is a global professional association devoted to assisting new and established professionals in the user experience disciplines. Through networking, publications, conferences, and classes, UXPA can help you hone your skills and deepen your involvement in the UX community. <br></p>\n<p> <br></p>\n<p> <br></p>\n<p> <br></p>\n<p> <br></p>",
+        "created": 1232745670000,
+        "city": "Santa Monica",
+        "untranslated_city": "Santa Monica",
+        "country": "US",
+        "localized_country_name": "USA",
+        "localized_location": "Santa Monica, CA",
+        "state": "CA",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 34.01,
+        "lon": -118.47,
+        "members": 4111,
+        "who": "UX Professionals",
+        "group_photo": {
+            "id": 476102910,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/b/5/e/highres_476102910.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/b/5/e/600_476102910.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/b/5/e/thumb_476102910.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 358004402,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/a/d/7/2/highres_358004402.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/a/d/7/2/600_358004402.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/a/d/7/2/thumb_358004402.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "US/Pacific",
+        "next_event": {
+            "id": "248072230",
+            "name": "UXPALA Winter Happy Hour",
+            "yes_rsvp_count": 23,
+            "time": 1548295200000,
+            "utc_offset": -28800000
+        },
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        }
+    },
+    {
+        "score": 1521,
+        "id": 1965381,
+        "name": "Carbon Five LA Hack Nights",
+        "status": "grace",
+        "link": "https://www.meetup.com/Hack-Night-at-Carbon-Five-LA/",
+        "urlname": "Hack-Night-at-Carbon-Five-LA",
+        "description": "<p>Carbon Five is a strategic digital product development firm. We partner with clients to create exceptional products and grow effective teams.</p>\n<p>Our developers, designers, and product managers have worked with clients at every stage of their journey: from early stage startups to growth and enterprise companies such as Echosign, Square, Thumbtack, StitchFix, Altschool, Google, Hulu, Gap, and many others.</p>\n<p>Carbon Five meetups represent the intersection of product, design, and technology. Our goal is to create a place where folks who are interested in building things people use can discuss, share, meet, create, and exchange useful feedback.</p>\n<p>As events are scheduled we will look to you and others to share experiences and why those experiences were illuminating or inspiring.</p>\n<p><i>If you plan on attending one of our events, please familiarize yourself with our </i><a href=\"http://www.carbonfive.com/event-code-of-conduct\"><i>Event Code of Conduct</i></a><i>.</i></p>",
+        "created": 1307147118000,
+        "city": "Santa Monica",
+        "untranslated_city": "Santa Monica",
+        "country": "US",
+        "localized_country_name": "USA",
+        "localized_location": "Santa Monica, CA",
+        "state": "CA",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 34.02,
+        "lon": -118.5,
+        "members": 2422,
+        "who": "Hackers",
+        "group_photo": {
+            "id": 455218188,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/e/3/4/c/highres_455218188.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/e/3/4/c/600_455218188.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/e/3/4/c/thumb_455218188.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 449659024,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/4/a/5/0/highres_449659024.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/4/a/5/0/600_449659024.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/4/a/5/0/thumb_449659024.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "US/Pacific",
+        "next_event": {
+            "id": "szlstpyzcbdb",
+            "name": "Fullstack Open Source ⚡ Carbon Five",
+            "yes_rsvp_count": 2,
+            "time": 1546484400000,
+            "utc_offset": -28800000
+        },
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        },
+        "pro_network": {
+            "name": "Carbon Five",
+            "urlname": "carbonfive",
+            "number_of_groups": 7,
+            "network_url": "https://www.meetup.com/pro/carbonfive/"
+        }
+    },
+    {
+        "score": 1513,
+        "id": 3817652,
+        "name": "Google Developer Group Los Angeles",
+        "status": "grace",
+        "link": "https://www.meetup.com/gdg-la/",
+        "urlname": "gdg-la",
+        "description": "<p>Do you use Google technologies in your work, studies or personal projects? Are you interested in learning more about them? Want to connect with other developers in person? Then the Google Developer Group Los Angeles welcomes you to attend one of our upcoming meetings! We're working on a roster of monthly events, including LA's first-ever Google I/O Extended viewing event, where you can watch live sessions from Google I/O with other developers right here in Southern California. Our regular meetings will feature talks and guest speakers discussing APIs and platforms such as Android, Chrome, Google Maps and Earth, Google TV, App Engine, the Google Prediction API, Dart, Google Web Toolkit and Google+. And sometimes we'll throw in other developer-oriented demos, interaction, special guests or games just for fun. Whatever the topic, it will be a great opportunity to meet, talk and make friends with LA-area developers who are using Google technologies to create interesting and innovative projects. Please note: GDG Los Angeles is a group of developers in the Los Angeles area that is independently organized by individuals, and is not a part of Google, Inc.</p>\n<p> <br></p>\n<p>Members and Organizers of GDG LA must adhere to the GDG Community Guidelines:</p>\n<p><a href=\"https://developers.google.com/groups/guidelines/\" class=\"linkified\">https://developers.google.com/groups/guidel...</a> <br></p>\n<p>GDG LA is an independent group; our activities and the opinions expressed here should in no way be linked to Google, the corporation.<br></p>",
+        "created": 1336418770000,
+        "city": "Los Angeles",
+        "untranslated_city": "Los Angeles",
+        "country": "US",
+        "localized_country_name": "USA",
+        "localized_location": "Los Angeles, CA",
+        "state": "CA",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 34.09,
+        "lon": -118.34,
+        "members": 1414,
+        "who": "Developers",
+        "group_photo": {
+            "id": 458048718,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/2/2/0/e/highres_458048718.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/2/2/0/e/600_458048718.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/2/2/0/e/thumb_458048718.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 451431324,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/c/8/7/c/highres_451431324.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/c/8/7/c/600_451431324.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/c/8/7/c/thumb_451431324.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "US/Pacific",
+        "next_event": {
+            "id": "256379954",
+            "name": "Polymer, web components, & why you should care!",
+            "yes_rsvp_count": 10,
+            "time": 1543543200000,
+            "utc_offset": -28800000
+        },
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        },
+        "pro_network": {
+            "name": "GDG",
+            "urlname": "gdg",
+            "number_of_groups": 787,
+            "network_url": "https://www.meetup.com/pro/gdg/"
+        }
+    },
+    {
+        "score": 1513,
+        "id": 1807374,
+        "name": "LA Mobile Camp (PhoneGap, IoT, Wearables)",
+        "status": "grace",
+        "link": "https://www.meetup.com/laphonegap/",
+        "urlname": "laphonegap",
+        "description": "<p>Mobile Camp emerged from the experiences gained from attending mobile developer conferences held by BlackBerry, Samsung, Google, Microsoft, Apple, Adobe and others. Some of the technologies we work with including Apache Cordova, Adobe PhoneGap, Adobe AIR, Java, Swift, Objective-C, JavaScript, C/C++, and NoSQL. By developer and for developers, we strive to give developers the edge in keeping up with mobile technologies as the industry and its techniques are constantly evolving.&nbsp;With this group we hope to excite and unite all that are passionate about the creators of the smartphone.&nbsp;This is an informal group so we are open to suggestions and feedback on what each member wants out of this group. Feel free to suggest topics for discussion, show off your latest app or what you've learned, or just come to the meetups and meet other developers.&nbsp;</p>\n<p>Do contact the organizers and suggest a meetup; feel free to suggest any topic. We're always listening.</p>\n<p>We welcome everyone here in accordance to the Apache Software Foundation Code of Conduct.&nbsp;</p>\n<p><a href=\"https://incubator.apache.org/projects/callback.html\"></a></p>",
+        "created": 1301529497000,
+        "city": "Los Angeles",
+        "untranslated_city": "Los Angeles",
+        "country": "US",
+        "localized_country_name": "USA",
+        "localized_location": "Los Angeles, CA",
+        "state": "CA",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 34.1,
+        "lon": -118.33,
+        "members": 1541,
+        "who": "Mobile Developers",
+        "group_photo": {
+            "id": 109079682,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/e/9/2/2/highres_109079682.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/e/9/2/2/600_109079682.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/e/9/2/2/thumb_109079682.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 448415199,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/8/9/7/f/highres_448415199.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/8/9/7/f/600_448415199.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/8/9/7/f/thumb_448415199.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "US/Pacific",
+        "next_event": {
+            "id": "249356817",
+            "name": "ORACLE JET Mobile Apps",
+            "yes_rsvp_count": 9,
+            "time": 1547604000000,
+            "utc_offset": -28800000
+        },
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        }
+    },
+    {
+        "score": 1519,
+        "id": 8179832,
+        "name": "Testable LA",
+        "status": "grace",
+        "link": "https://www.meetup.com/testable/",
+        "urlname": "testable",
+        "description": "<p>If you love testable JavaScript, this group is for you!</p>\n<p><span>If you want to getting into testing your code, jump in!</span></p>",
+        "created": 1366675893000,
+        "city": "Los Angeles",
+        "untranslated_city": "Los Angeles",
+        "country": "US",
+        "localized_country_name": "USA",
+        "localized_location": "Los Angeles, CA",
+        "state": "CA",
+        "join_mode": "open",
+        "visibility": "public",
+        "lat": 34.06,
+        "lon": -118.24,
+        "members": 1487,
+        "who": "assertist",
+        "group_photo": {
+            "id": 468511423,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/7/a/b/f/highres_468511423.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/7/a/b/f/600_468511423.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/7/a/b/f/thumb_468511423.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "key_photo": {
+            "id": 339323482,
+            "highres_link": "https://secure.meetupstatic.com/photos/event/5/b/b/a/highres_339323482.jpeg",
+            "photo_link": "https://secure.meetupstatic.com/photos/event/5/b/b/a/600_339323482.jpeg",
+            "thumb_link": "https://secure.meetupstatic.com/photos/event/5/b/b/a/thumb_339323482.jpeg",
+            "type": "event",
+            "base_url": "https://secure.meetupstatic.com"
+        },
+        "timezone": "US/Pacific",
+        "category": {
+            "id": 34,
+            "name": "Tech",
+            "shortname": "tech",
+            "sort_name": "Tech"
+        },
+        "meta_category": {
+            "id": 292,
+            "shortname": "tech",
+            "name": "Tech",
+            "sort_name": "Tech",
+            "photo": {
+                "id": 450131949,
+                "highres_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/highres_450131949.jpeg",
+                "photo_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/600_450131949.jpeg",
+                "thumb_link": "https://secure.meetupstatic.com/photos/event/2/e/a/d/thumb_450131949.jpeg",
+                "type": "event",
+                "base_url": "https://secure.meetupstatic.com"
+            },
+            "category_ids": [
+                34
+            ]
+        }
+    }
+]
+}
